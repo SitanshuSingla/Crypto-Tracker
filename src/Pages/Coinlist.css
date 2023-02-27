@@ -1,0 +1,16 @@
+thead {
+  background-color: yellow;
+  color: black !important;
+}
+
+.con {
+  margin-top: 70px;
+}
+
+.d-flex {
+  padding-left: 130px;
+  padding-right: 130px;
+}
+table {
+  color: white !important;
+}

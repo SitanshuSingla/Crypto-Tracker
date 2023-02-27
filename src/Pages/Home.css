@@ -1,0 +1,16 @@
+h1 {
+  color: white;
+  margin-top: 100px;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+}
+.d {
+  color: rgb(196, 182, 182);
+}
+button {
+  color: white !important;
+  border-color: white !important;
+}
